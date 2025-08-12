@@ -5,7 +5,6 @@ Descriptions:
     Simple To Do App.
     We can add tasks and steps of implementation these tasks, check step completion and display percantage of completion and progress on bar.
     Prioritize steps using move up/down buttons in steps. Edit tasks/steps.
-
     All actions lead to save in localStorage.
 
 Stack:
