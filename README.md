@@ -1,5 +1,4 @@
-# react-task-manager
-React Task Manager
+# React Task Manager
 
 Descriptions:  
     Simple To Do App.
