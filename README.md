@@ -13,7 +13,7 @@ Stack:
 Installation:  
     git clone https://github.com/mdmcristo/react-task-manager.git
 
-Usage:
+Usage:  
     1. Installing dependecies:  
         npm install  
     2. Use standart CRA scripts:  
