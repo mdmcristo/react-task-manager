@@ -15,7 +15,7 @@ Installation:
 
 Usage:
     1. Installing dependecies:  
-        npm install
+        npm install  
     2. Use standart CRA scripts:  
         npm start - start server and dev mode  
         npm run build - bundle
