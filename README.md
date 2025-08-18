@@ -5,12 +5,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;We can add tasks and steps of implementation these tasks, check step completion and display percantage of completion and progress on a bar under each task. Prioritize steps using move up/down buttons in steps. Edit tasks/steps. All actions lead to save in localStorage.  
  
 ### Stack: ###  
-* React  
+* React, CRA (template minimal)    
 * React DOM  
-* CRA (template minimal)  
 * JSX  
 * HTML  
 * CSS
+
+![HTML icon](https://img.icons8.com/fluency/48/html-5.png)
+![CSS icon](https://img.icons8.com/color/48/css3.png)
+![React icon](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
  
 ### Installation and usage: ###  
  
